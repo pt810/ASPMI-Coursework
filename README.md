@@ -4,7 +4,7 @@ All the code used to perform the relevant computations and plot the relevant dat
 
  ## **Work Summary**
 
-•	Applied machine learning for spectrum estimation and analysis of real-world data (EEG, sunspot time series) using advanced parametric models and periodograms.
-•	Conducted time-series analysis on biological signals, utilising autoregressive (AR) modelling and power spectral density (PSD) estimation to enhance predictive capabilities.
-•	Developed robust Principal Component Regression (PCR) models to handle noisy, multicollinear datasets, and compared performance with Ordinary Least Squares (OLS) using MATLAB.
-•	Implemented and optimised the Least Mean Squares (LMS) algorithm for adaptive noise cancellation, showcasing proficiency in real-time data filtering and signal processing.
+*	Applied machine learning for spectrum estimation and analysis of real-world data (EEG, sunspot time series) using advanced parametric models and periodograms.
+*	Conducted time-series analysis on biological signals, utilising autoregressive (AR) modelling and power spectral density (PSD) estimation to enhance predictive capabilities.
+*	Developed robust Principal Component Regression (PCR) models to handle noisy, multicollinear datasets, and compared performance with Ordinary Least Squares (OLS) using MATLAB.
+*	Implemented and optimised the Least Mean Squares (LMS) algorithm for adaptive noise cancellation, showcasing proficiency in real-time data filtering and signal processing.
